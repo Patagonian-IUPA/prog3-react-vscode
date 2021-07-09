@@ -99,5 +99,6 @@ nuevo.
 ## Y ahora qué hago?
 
 Si te trabaste en algún lado, tenés dudas, consultas, o crees que podemos
-mejorar esta guía desde tu punto de vista, abrí un nuevo _issue_ en este
-repositorio y expresate. Tu inquietud puede ayudar a otros.
+mejorar esta guía desde tu punto de vista,
+[abrí un nuevo _issue_](https://github.com/Patagonian-IUPA/prog3-react-vscode/issues)
+en este repositorio y expresate. Tu inquietud puede ayudar a otros.
