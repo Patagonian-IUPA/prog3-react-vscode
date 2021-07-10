@@ -49,15 +49,18 @@ npx create-react-app reemplazar_esto_con_el_nombre_de_mi_app && cd reemplazar_es
 
 - Instalé `create-react-app` en mi sistema.
 - Cree una app react dentro de `reemplazar_esto_con_el_nombre_de_mi_app`.
+- Inicialicé un proyecto GIT con un único commit con el mensaje
+  `Initialize project using Create React App`.
 - Instalé las dependencias necesarias.
 - Creé un servidor de desarrollo en el puerto `3000` que sirve la aplicación.
 - Disparé la compilación necesaria para ReactJS.
 - Abrí mi navegador para ver el resultado que se está sirviendo en el puerto
   `3000`.
 
-Ahora solo queda abrir VSCode en la carpeta del proyecto. Abrimos un terminal
-nuevo o un nuevo tab (el anterior ahora está ocupado) y corremos el comando
-`code .` dentro de la carpeta de la app react.
+Ya tenemos una app react corriendo, con todo el entorno de desarrollo y manejado
+por GIT. Ahora solo queda abrir VSCode en la carpeta del proyecto. Abrimos un
+terminal nuevo o un nuevo tab (el anterior ahora está ocupado) y corremos el
+comando `code .` dentro de la carpeta de la app react.
 
 ## Iniciar una app ya creada
 
@@ -102,3 +105,8 @@ Si te trabaste en algún lado, tenés dudas, consultas, o crees que podemos
 mejorar esta guía desde tu punto de vista,
 [abrí un nuevo _issue_](https://github.com/Patagonian-IUPA/prog3-react-vscode/issues)
 en este repositorio y expresate. Tu inquietud puede ayudar a otros.
+
+## Guiás siguientes
+
+- [Descripción de la estructura de archivos y directorios](guides/01.estructura-de-directorios.md)
+- [Limpieza del directorio src](guides/02.limpieza-del-directorio-src.md)
