@@ -1,6 +1,5 @@
-# Conceptos Básicos: Módulos
+# Módulos Javascript
 
-Saquemos del camino algunos conceptos básicos así estamos todos en sintonía.
 Tomemos el ejemplo _limpio_ de nuestra app:
 
 ```jsx
@@ -35,7 +34,7 @@ en `components/Component.jsx` usaremos.
 import Component from './components/Component';
 ```
 
-Cosas a notar:
+**Cosas a notar**:
 
 1. Los imports suelen ser _rutas_ a archivos.
 2. En javascript, los archivos son comúnmente llamados _módulos_.
@@ -170,3 +169,14 @@ o...
 ```jsx
 import { Title } from './components/Title';
 ```
+
+## Tarea sugerida
+
+1. Tomar la tarea sugerida en la guía sobre
+   [Componentes React](03-componentes-react.md) y transformar cada componente en
+   un modulo independiente dentro del directorio `./components`.
+2. Hacer que cada módulo exporte las dos versiones _named_ y _default_ al mismo
+   tiempo.
+3. En `App.jsx` importar todos los componentes usando cualquier alternative
+   _named_ o _default_ y reemplazar cada componente declarado en `App.jsx` con
+   la versión importada.

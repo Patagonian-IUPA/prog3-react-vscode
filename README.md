@@ -110,3 +110,5 @@ en este repositorio y expresate. Tu inquietud puede ayudar a otros.
 
 - [Descripción de la estructura de archivos y directorios](guides/01.estructura-de-directorios.md)
 - [Limpieza del directorio src](guides/02.limpieza-del-directorio-src.md)
+- [Componentes React](guides/03-componentes-react.md)
+- [Módulos Javascript](guides/04-modulos-javascript.md)
