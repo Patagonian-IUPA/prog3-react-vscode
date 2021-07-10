@@ -92,7 +92,7 @@ function App() {
 
 **Cosas a notar**
 
-- si prestamos atención, vemos que el último ejemplo usa algo como unas
+- Si prestamos atención, vemos que el último ejemplo usa algo como unas
   etiquetas html sin nombre `<>` y `</>`. Estas etiquetas se llaman _Fragments_
   y se usan en los casos de que nuestro componente retorne mas de un elemento.
   Esto es porque un componente react solo puede retornar un único elemento

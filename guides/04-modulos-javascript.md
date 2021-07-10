@@ -129,7 +129,7 @@ de la clausula `from`. En este caso no podemos usar un nombre arbitrario sino
 que tenemos que usar el mismo nombre con el que fué exportado. Por eso se los
 llama _named exports_.
 
-> Un modulo puede definir más de un modulo de tipo _named_ pero solo uno de tipo
+> Un modulo puede definir más de un export de tipo _named_ pero solo uno de tipo
 > _default_.
 
 Si nuestro modulo `Title` también definiera otro named export (como `Title3`),
