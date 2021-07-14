@@ -23,7 +23,7 @@ Nuestra **App** es en esencia un componente React.
 Los componentes react son básicamente funciones javascript con algunas
 particularidades principales:
 
-- Se definen usando la forma _titelcased_ en la cual cada palabra comienza con
+- Se definen usando la forma _TitelCased_ en la cual cada palabra comienza con
   mayúscula. Por ejemplo `MyComponent` o `MuSuperComponent`.
 - Solo aceptan un único parametro usualmente llamado _props_. Este parámetro es
   un objeto javascript que puede contener propiedades arbitrarias aunque siempre
