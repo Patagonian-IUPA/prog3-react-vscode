@@ -190,7 +190,6 @@ Cómo definirías los componentes React del ejemplo anterior
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-
 function ArticleContainer(/* definir props */) {
   // definir return
 }
@@ -212,7 +211,7 @@ function DeColorRojo(/* definir props */) {
 }
 
 function App() {
-  return return (
+  return (
     <ArticleContainer>
       <Title>
         Hola <i>Mundo</i>!
@@ -224,7 +223,7 @@ function App() {
         </EnNegrita>!
       </Paragraph>
     </ArticleContainer>
-  );;
+  );
 }
 
 ReactDOM.render(
